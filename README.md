@@ -30,6 +30,8 @@ dataset/ ├── images/ │ ├── train/ # 训练集图片 │ ├── 
    cd steel-defect-detection
 2.安装依赖项：
 pip install -r requirements.txt
+
+
 3.文件结构：
 ├── dataset/              # 数据集文件夹
 ├── train.py              # 训练脚本，用于训练模型
